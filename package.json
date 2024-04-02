@@ -86,8 +86,8 @@
     "lint-staged": "^10.2.0",
     "nwb": "^0.24.5",
     "prettier": "^2.0.5",
-    "react": "^16.3.2",
-    "react-dom": "^16.13.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "regenerator-runtime": "0.13.5",
     "ts-jest": "^25.4.0",
     "tsdx": "^0.13.2",
@@ -106,7 +106,7 @@
     "react-tiny-virtual-list": "^2.1.4"
   },
   "peerDependencies": {
-    "react": ">=0.14.0 || ^15.0.0 || ^16.0.0"
+    "react": "^16.0.0 || ^18.0.0"
   },
   "browserify-shim": {
     "classnames": "global:classNames",
